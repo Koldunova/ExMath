@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+    <File Path="Unit10.pas"/>
+    <File Path="Unit10.dfm"/>
+    <File Path="Unit11.pas"/>
+    <File Path="Unit11.dfm"/>
+    <File Path="Unit13.pas"/>
+    <File Path="Unit13.dfm"/>
+    <File Path="Unit12.pas"/>
+    <File Path="Unit12.dfm"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.622,=W:\Курсач\Programm\Unit11.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,W:\Курсач\Programm\yy2.pas=W:\Курсач\Programm\Unit12.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,W:\Курсач\Programm\yy2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,W:\Курсач\Programm\Unit13.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,=W:\Курсач\Programm\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.646,=W:\Курсач\Programm\Unit13.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,=W:\Курсач\Programm\Unit13.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,=W:\Курсач\Programm\Unit12.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=W:\Курсач\Programm\Unit12.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,W:\Курсач\Programm\Unit12.pas=W:\Курсач\Programm\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,W:\Курсач\Programm\Unit8.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,W:\Курсач\Programm\yy2.dfm=W:\Курсач\Programm\Unit12.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,=W:\Курсач\Programm\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,W:\Курсач\Programm\Unit12.dfm=W:\Курсач\Programm\Unit14.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
